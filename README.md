@@ -2,6 +2,14 @@ Typescript playground
 =====================
 Simple Typescript playground for experimenting with the language.
 
+Installation
+------------
+To install, run:
+
+````bash
+npm install
+````
+
 Usage
 -----
 The [main.ts](./main.ts) file is the main entry point.
